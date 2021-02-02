@@ -11,7 +11,7 @@ A python package for analyzing and visualizing xyz and pdb files. This repositor
 
 ### Copyright
 
-Copyright (c) 2021, Eliseo Marin
+Copyright (c) 2021, Eliseo Marin and Jessica Nash
 
 
 #### Acknowledgements

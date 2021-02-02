@@ -23,7 +23,7 @@ import molecool
 # -- Project information -----------------------------------------------------
 
 project = 'molecool'
-copyright = ("2021, Eliseo Marin. Project structure based on the "
+copyright = ("2021, Eliseo Marin and Jessica Nash. Project structure based on the "
              "Computational Molecular Science Python Cookiecutter version 1.5")
 author = 'Eliseo Marin'
 
