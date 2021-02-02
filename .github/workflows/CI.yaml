@@ -19,6 +19,14 @@ on:
     - cron: "0 0 * * *"
 
 jobs:
+  ascii:
+    name: ASCII Art action
+    runs-on: ubuntu-latest
+    steps:
+      - uses: mscoutermarsh/ascii-art-action@master
+        with:
+          text: 'MSF 2021A'
+
   test:
     name: Test on ${{ matrix.os }}, Python ${{ matrix.python-version }}
     runs-on: ${{ matrix.os }}
